@@ -1,0 +1,14 @@
+.varios-elementos {
+  background: white; }
+  .varios-elementos p {
+    color: white; }
+  .varios-elementos a {
+    color: white; }
+  .varios-elementos input {
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+    border-bottom: solid 1px white;
+    border-top: solid 3px white; }
